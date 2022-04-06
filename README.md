@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **lucaswiechmann/lucaswiechmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+#### 🙋‍♂️ About me
+
+- I'm a software developer for Ifood, developing applications for million of users
+- I love nature and sports
+- Surfer at free times
+- I have a youtube channel where I share my adventures
+- Drone lover (starting fpv this year of 2022)
+- Open to projects that will impact society
+
+
+#### Techs
+
+![image](https://user-images.githubusercontent.com/7179170/161989535-ded7b502-f541-40d5-b3a9-8693f174a30f.png)
+
+
+#### Follow me
+
+- 📺 Youtube Channel (Drone Videos & Surf): https://www.youtube.com/channel/UC8rPZZukFQ0Bktjjk5yIscQ
+- ✍️ Twitter: https://twitter.com/Lucaswiech
+- 📖 Medium: https://lucas-wiechmann.medium.com/
