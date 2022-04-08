@@ -30,4 +30,4 @@
 
 If you like me content, please consider buy me a coffe
 
-- buymeacoffee.com/lucaswiechmann
+- https://buymeacoffee.com/lucaswiechmann
