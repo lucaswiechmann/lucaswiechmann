@@ -25,3 +25,9 @@
 - 📺 Youtube Channel (Drone Videos & Surf): https://www.youtube.com/channel/UC8rPZZukFQ0Bktjjk5yIscQ
 - ✍️ Twitter: https://twitter.com/Lucaswiech
 - 📖 Medium: https://lucas-wiechmann.medium.com/
+
+### Support me
+
+If you like me content, please consider buy me a coffe
+
+- buymeacoffee.com/lucaswiechmann
