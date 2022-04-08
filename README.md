@@ -28,6 +28,6 @@
 
 ### Support me
 
-If you like me content, please consider buy me a coffe
+If you like my content, please consider buy me a coffe
 
 - https://buymeacoffee.com/lucaswiechmann
