@@ -11,7 +11,7 @@
 - I love nature and sports
 - Surfer at free times
 - I have a youtube channel where I share my adventures
-- Drone lover (starting fpv this year of 2022)
+- Drone lover
 - Open to projects that will impact society
 
 
