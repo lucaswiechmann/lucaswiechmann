@@ -7,7 +7,7 @@
 
 #### 🙋‍♂️ About me
 
-- I'm a software developer for Ifood, developing applications for million of users
+- I'm a software engineer,  developing applications for million of users
 - I love nature and sports
 - Surfer at free times
 - I have a youtube channel where I share my adventures
@@ -18,16 +18,16 @@
 #### Techs
 
 ![image](https://user-images.githubusercontent.com/7179170/161989535-ded7b502-f541-40d5-b3a9-8693f174a30f.png)
-- Java (spring boot)
-- Golang
-- Kotlin (corountines)
-- Nodejs
-- K6
-- AWS Cloud
-- Vault
-- Kong (api gateway)
-- Kubernets (helm/canary)
-- Authentication (OTP,2FA, LGPD, UserMetadata)
+- Coding: Java (spring boot), Golang, Kotlin, Python, Nodejs, Bash, React
+- Cloud: AWS Cloud, GCP
+- K6 (stress test)
+- Infra: Vault, Kong (api gateway), Kubernets (helm/canary), Ansible/Terraform, docker
+- Database: Postgresql, ElasticSearch, MongoDB, DynamoDB
+- Cache: redis/elasticache, dax
+- Messaging: sqs & sns, kafka, rabbitmq
+- Monitoring: new relic, datadog, prometheus, grafana, cloudwatch
+- General: Authentication (OTP,2FA, LGPD, UserMetadata); databricks (pyspark)
+- AI (LLM/Rag/Langchain)
 
 #### Follow me
 
